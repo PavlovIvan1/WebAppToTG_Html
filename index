@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food shop</title>
+</head>
+<body>
+
+    <div id="main__div">
+        <h1>Order Food! Do you want a hamburger?</h1>
+        <img width="300px" src="https://avatars.mds.yandex.net/i?id=0b9836a667b95787d7f9079704bc0de790b9760e-10385249-images-thumbs&n=13">
+        <button id="buy">Buy the food!</button>
+    </div>
+
+</body>
+</html>
